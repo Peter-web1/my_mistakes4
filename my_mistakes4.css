@@ -1,0 +1,36 @@
+.article {
+  max-width: 350px;
+  margin: 30px auto;
+
+  background: #888;
+  box-shadow: 0 25px 25px;
+}
+
+.article-photo {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.article-content a {
+  text-decoration: none;
+}
+
+.article-content a:hover {
+  text-decoration: underline;
+}
+
+.article-text {
+  margin-bottom: 20px;
+}
+
+.article-content {
+  padding: 30px;
+}
+
+.article-footer {
+  margin: 0;
+  padding: 0;
+  color: #555;
+  list-style: none;
+}
